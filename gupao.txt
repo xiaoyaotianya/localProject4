@@ -25,4 +25,4 @@ ssh key
 
 yan....ppp
 
-yan___
+yan___000000
